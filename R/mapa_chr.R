@@ -1,5 +1,6 @@
 #' mapa_chr
 #'
+#'
 #' @param cr chr vector
 #' @param col_cr color
 #' @param unidad cM
