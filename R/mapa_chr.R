@@ -25,6 +25,7 @@ mapa_chr <- function(cr= c(30.4,19.7,23.5,18.6,27), col_cr = "grey", unidad = "c
        labels = rev(pretty(0:max(cr))),
        lty = 1
   )
+  ###ooiijmmnnnnnn
   axis(side = 3,
        at = rango,
        labels = paste0("LG", rango),
